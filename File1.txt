@@ -3,3 +3,5 @@ Hello World !! changed file 1
 To check revert comand 
 
 Trying my first push
+
+Change done in remote master for file1
