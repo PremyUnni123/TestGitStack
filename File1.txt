@@ -1,3 +1,3 @@
 Hello World !! changed file 1
 
-To check revert comand after commit --testing revert command
+To check revert comand 
